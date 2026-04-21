@@ -720,7 +720,9 @@
         'use strict';
 
         /* ─── Constantes ─────────────────────── */
-        const API_URL = 'https://app.mogomenu.com.br/Home/GetProductsByEstab?isQrCode=true&urlEmpresa=amavecafe&tipoPedido=3';
+        // CORS Proxy aplicado para permitir busca ao vivo mesmo sem autorização do servidor original
+        const MOGO_URL = encodeURIComponent('https://app.mogomenu.com.br/Home/GetProductsByEstab?isQrCode=true&urlEmpresa=amavecafe&tipoPedido=3');
+        const API_URL = `https://api.allorigins.win/raw?url=${MOGO_URL}`;
         const HIDDEN_CATS = ['Soft Drinks', 'Doces'];   // categorias ocultas
 
         /* Imagens locais usadas como fallback de hero dos cards
