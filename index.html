@@ -49,11 +49,6 @@
     }
   </script>
 
-  <!--
-    FALLBACK DE DADOS: Script nativo para garantir disponibilidade local
-  -->
-  <script src="produtos.js"></script>
-
   <style>
     /* ── Base ── */
     body {
@@ -933,19 +928,23 @@
             menuData = data.filter(c => !HIDDEN_CATS.includes(c.Categoria.trim()));
 
           } catch (err) {
-            console.warn('[Amavê] ⚠️ API remota falhou/CORS ou Timeout. Tentando fallback window.__AMAVE_MENU__', err.message);
+            console.warn('[Amavê] ⚠️ API falhou com bloqueio CORS. Puxando produtos.json local...');
 
-            if (typeof window.__AMAVE_MENU__ !== 'undefined' && Array.isArray(window.__AMAVE_MENU__) && window.__AMAVE_MENU__.length > 0) {
-              console.info('[Amavê] ✅ Fallback local (produtos.js) inicializado com sucesso.');
-              menuData = window.__AMAVE_MENU__.filter(c => !HIDDEN_CATS.includes(c.Categoria.trim()));
-            } else {
-              console.error('[Amavê] ❌ Falha catastrófica. Impossível carregar menu.');
+            try {
+              const res = await fetch('produtos.json');
+              if (!res.ok) throw new Error('Arquivo produtos.json retornou 404. Ele não foi upado no servidor.');
+              const fallbackData = await res.json();
+              
+              console.info('[Amavê] ✅ Fallback local carregado.');
+              menuData = fallbackData.filter(c => !HIDDEN_CATS.includes(c.Categoria.trim()));
+            } catch (fallbackErr) {
+              console.error('[Amavê] ❌ Falha catastrófica:', fallbackErr.message);
               hideSkeleton();
               gridEl.innerHTML = `
           <div class="col-span-full text-center py-20">
             <iconify-icon icon="solar:sad-circle-linear" class="text-neutral-300 mb-4" width="48"></iconify-icon>
             <p class="serif text-2xl text-neutral-400 font-light">Não foi possível carregar o cardápio</p>
-            <p class="text-sm text-neutral-400 mt-2">Nossos sistemas estão off-line. Tente novamente mais tarde.</p>
+            <p class="text-sm text-neutral-400 mt-2">Os dados locais não foram encontrados no servidor.</p>
           </div>`;
               return;
             }
