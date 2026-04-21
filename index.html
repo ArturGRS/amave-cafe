@@ -50,9 +50,9 @@
   </script>
 
   <!--
-    FALLBACK DE DADOS: O cardápio será inicialmente carregado da API,
-    e se falhar por CORS/Offline, buscará os dados diretamente do produtos.json local.
+    FALLBACK DE DADOS: Script nativo para garantir disponibilidade local
   -->
+  <script src="produtos.js"></script>
 
   <style>
     /* ── Base ── */
@@ -720,9 +720,7 @@
         'use strict';
 
         /* ─── Constantes ─────────────────────── */
-        // CORS Proxy aplicado para permitir busca ao vivo mesmo sem autorização do servidor original
-        const MOGO_URL = encodeURIComponent('https://app.mogomenu.com.br/Home/GetProductsByEstab?isQrCode=true&urlEmpresa=amavecafe&tipoPedido=3');
-        const API_URL = `https://api.allorigins.win/raw?url=${MOGO_URL}`;
+        const API_URL = 'https://app.mogomenu.com.br/Home/GetProductsByEstab?isQrCode=true&urlEmpresa=amavecafe&tipoPedido=3';
         const HIDDEN_CATS = ['Soft Drinks', 'Doces'];   // categorias ocultas
 
         /* Imagens locais usadas como fallback de hero dos cards
@@ -935,18 +933,13 @@
             menuData = data.filter(c => !HIDDEN_CATS.includes(c.Categoria.trim()));
 
           } catch (err) {
-            console.warn('[Amavê] ⚠️ API remota falhou (possível CORS). Tentando fallback local...', err.message);
+            console.warn('[Amavê] ⚠️ API remota falhou/CORS ou Timeout. Tentando fallback window.__AMAVE_MENU__', err.message);
 
-            try {
-              /* 2️⃣ Fallback: Fetch do produtos.json local */
-              const localRes = await fetch('produtos.json');
-              if (!localRes.ok) throw new Error('Falha ao ler produtos.json local.');
-              const localData = await localRes.json();
-              
-              console.info('[Amavê] ✅ Fallback produtos.json usado com sucesso.');
-              menuData = localData.filter(c => !HIDDEN_CATS.includes(c.Categoria.trim()));
-            } catch (fallbackErr) {
-              console.error('[Amavê] ❌ Falha catastrófica. Impossível carregar menu.', fallbackErr.message);
+            if (typeof window.__AMAVE_MENU__ !== 'undefined' && Array.isArray(window.__AMAVE_MENU__) && window.__AMAVE_MENU__.length > 0) {
+              console.info('[Amavê] ✅ Fallback local (produtos.js) inicializado com sucesso.');
+              menuData = window.__AMAVE_MENU__.filter(c => !HIDDEN_CATS.includes(c.Categoria.trim()));
+            } else {
+              console.error('[Amavê] ❌ Falha catastrófica. Impossível carregar menu.');
               hideSkeleton();
               gridEl.innerHTML = `
           <div class="col-span-full text-center py-20">
