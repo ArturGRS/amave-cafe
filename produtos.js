@@ -1,0 +1,14239 @@
+window.__AMAVE_MENU__ = [
+  {
+    "Categoria": "Salgados Clássicos ",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 1,
+        "IdSlave": 1,
+        "NomeDelivery": "Pão de Queijo Mineirinho",
+        "DescricaoDelivery": "Clássico, quentinho e irresistível",
+        "Ingredientes": "",
+        "PrecoDelivery": "5,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113227668221909/WhatsApp%20Image%202026-04-08%20at%2016.25.16%20%282%29.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 1,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 3,
+        "IdSlave": 3,
+        "NomeDelivery": "Empadão de Frango",
+        "DescricaoDelivery": "Frango com palmito e requeijão. Cremoso na medida certa.",
+        "Ingredientes": "",
+        "PrecoDelivery": "19,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083384457686647/Empad%C3%A3o%20de%20Frango.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 3,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 4,
+        "IdSlave": 4,
+        "NomeDelivery": "Misto Quente",
+        "DescricaoDelivery": "Pão tradicional ou integral, queijo, presunto e orégano.",
+        "Ingredientes": "",
+        "PrecoDelivery": "11,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639117532154730327/WhatsApp%20Image%202026-04-14%20at%2008.45.44.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 4,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 5,
+        "IdSlave": 5,
+        "NomeDelivery": "Bauru",
+        "DescricaoDelivery": "Pão, queijo, presunto e tomate.",
+        "Ingredientes": "",
+        "PrecoDelivery": "12,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639117582555845471/WhatsApp%20Image%202026-04-14%20at%2010.10.22.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 5,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 6,
+        "IdSlave": 6,
+        "NomeDelivery": "Pão com Manteiga",
+        "DescricaoDelivery": "Pão de forma ou mini baguete, sempre fresquinhos.",
+        "Ingredientes": "",
+        "PrecoDelivery": "8,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083387484835225/P%C3%A3o%20com%20manteiga.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 6,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 6,
+              "Descricao": "Pão de forma ou mini baguete?",
+              "QuantMinima": 1,
+              "QuantMaxima": 1,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 22,
+                    "Descricao": "Pão de Forma",
+                    "UtilizaQuantidade": false,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 22,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 6,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 1,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Assados Amavê",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 7,
+        "IdSlave": 7,
+        "NomeDelivery": "Pão com Frango e Catupiry",
+        "DescricaoDelivery": "Pão com frango e catupiry",
+        "Ingredientes": "",
+        "PrecoDelivery": "12,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639110841029064273/WhatsApp%20Image%202026-04-06%20at%2014.38.36.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 7,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 8,
+        "IdSlave": 8,
+        "NomeDelivery": "Doguinho",
+        "DescricaoDelivery": "Doguinho",
+        "Ingredientes": "",
+        "PrecoDelivery": "10,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639110840807112283/WhatsApp%20Image%202026-04-06%20at%2014.38.36%20%281%29.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 8,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 2,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Brunh",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 9,
+        "IdSlave": 9,
+        "NomeDelivery": "Pão com Bolinho Gourmet",
+        "DescricaoDelivery": "Pão bola, bolinho gourmet, cheddar e cebola caramelizada.",
+        "Ingredientes": "",
+        "PrecoDelivery": "33,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083391962713861/P%C3%A3o%20com%20Bolinho%20Gourmet.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 9,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 1
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 10,
+        "IdSlave": 10,
+        "NomeDelivery": "Sanduíche de Carne de Panela",
+        "DescricaoDelivery": "Pão italiano, carne desfiada, rúcula, tomate e muçarela.",
+        "Ingredientes": "",
+        "PrecoDelivery": "29,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083394983687087/Sanduiche%20de%20Carne%20de%20Panela.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 10,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 11,
+        "IdSlave": 11,
+        "NomeDelivery": "Sanduíche de Linguiça Blumenau",
+        "DescricaoDelivery": "Pão ciabatta, linguiça Blumenau, alface, tomate e muçarela.",
+        "Ingredientes": "",
+        "PrecoDelivery": "30,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083395245862872/Sanduiche%20de%20Lingui%C3%A7a%20Blumenau.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 11,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 12,
+        "IdSlave": 12,
+        "NomeDelivery": "Toast de Brie com Crispy de Bacon",
+        "DescricaoDelivery": "Pão de fermentação natural, brie, crispy de bacon e mel.",
+        "Ingredientes": "",
+        "PrecoDelivery": "30,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113288741181813/Bri.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 12,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 13,
+        "IdSlave": 13,
+        "NomeDelivery": "Toast de Gorgonzola com Tomate Confit",
+        "DescricaoDelivery": "Pão de fermentação natural, tomate confit e manjericão.",
+        "Ingredientes": "",
+        "PrecoDelivery": "27,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113288906302457/tomate.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 13,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 14,
+        "IdSlave": 14,
+        "NomeDelivery": "Escondidinho",
+        "DescricaoDelivery": "Purê de aipim cremoso com carne desfiada e cobertura gratinada.",
+        "Ingredientes": "",
+        "PrecoDelivery": "21,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083396962502265/Escondidinho.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 14,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 3,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Leves e Nutritivos",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 15,
+        "IdSlave": 15,
+        "NomeDelivery": "Ovo Mexido no Pão",
+        "DescricaoDelivery": "Pão Italiano integral, ovo mexido e tomate picado",
+        "Ingredientes": "",
+        "PrecoDelivery": "20,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083401599383610/Ovo%20Mexido%20no%20P%C3%A3o.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 15,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 16,
+        "IdSlave": 16,
+        "NomeDelivery": "Omelete de Espinafre",
+        "DescricaoDelivery": "Ovos, espinafre, tomate e ricota",
+        "Ingredientes": "",
+        "PrecoDelivery": "21,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083402240465252/Omelete%20de%20Espinafre.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 16,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 17,
+        "IdSlave": 17,
+        "NomeDelivery": "Pão com Ovo Frito",
+        "DescricaoDelivery": "Pão com ovo frito",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083402761989216/P%C3%A3o%20com%20Ovo%20Frito.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 17,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 18,
+        "IdSlave": 18,
+        "NomeDelivery": "Salgado de Abóbora Cabotiá",
+        "DescricaoDelivery": "Nutritivo, leve e saboroso",
+        "Ingredientes": "",
+        "PrecoDelivery": "18,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083403184663452/Salgado%20de%20Abobora%20Caboti%C3%A1.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 18,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 19,
+        "IdSlave": 19,
+        "NomeDelivery": "Coxinha Maromba",
+        "DescricaoDelivery": "Proteíca e deliciosa",
+        "Ingredientes": "",
+        "PrecoDelivery": "18,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639112594044005246/coxinha.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 19,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 20,
+        "IdSlave": 20,
+        "NomeDelivery": "Sanduíche Natural",
+        "DescricaoDelivery": "Pão integral, patê de frango/peito de peru com picles",
+        "Ingredientes": "",
+        "PrecoDelivery": "14,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083404601529413/Sanduiche%20Natural.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 20,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 21,
+        "IdSlave": 21,
+        "NomeDelivery": "Crepioca",
+        "DescricaoDelivery": "Ovos, tapioca e queijo. Sabores: frango, carne desfiada ou linguiça blumenau.",
+        "Ingredientes": "",
+        "PrecoDelivery": "26,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083404925106957/Crepioca.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 21,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 8,
+              "Descricao": "Escolha o sabor da sua Crepioca:",
+              "QuantMinima": 1,
+              "QuantMaxima": 1,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 27,
+                    "Descricao": "Crepioca de Frango",
+                    "UtilizaQuantidade": false,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 27,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 28,
+                    "Descricao": "Crepioca de Carne Desfiada",
+                    "UtilizaQuantidade": false,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 28,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 29,
+                    "Descricao": "Crepioca de Linguiça Blumenau",
+                    "UtilizaQuantidade": false,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 29,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 8,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 1
+          },
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 2
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 123,
+        "IdSlave": 123,
+        "NomeDelivery": "Salgado de Calabresa",
+        "DescricaoDelivery": "Nutritivo, leve e saboroso",
+        "Ingredientes": "",
+        "PrecoDelivery": "6,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639112593851688081/calabresa.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 123,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 160,
+        "IdSlave": 180,
+        "NomeDelivery": "Quiche",
+        "DescricaoDelivery": "Nutritivo, leve e saboroso",
+        "Ingredientes": "",
+        "PrecoDelivery": "18,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639116868113712448/Captura%20de%20tela%202026-04-13%20142002.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 160,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 7,
+              "Descricao": "Qual o sabor do seu Mate?",
+              "QuantMinima": 1,
+              "QuantMaxima": 1,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 47,
+                    "Descricao": "Chá Mate Limão ",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 48,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 48,
+                    "Descricao": "Chá Mate de Peach",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 49,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 7,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          },
+          {
+            "GrupoOpcoes": {
+              "Id": 1,
+              "Descricao": "Adicione mais sabor?",
+              "QuantMinima": 0,
+              "QuantMaxima": 5,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 1,
+                    "Descricao": "Pão Fermentação",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 1,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 2,
+                    "Descricao": "Pão Multigrão",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 2,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 3,
+                    "Descricao": "Pão Ciabatta",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 3,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 4,
+                    "Descricao": "Crispy Bacon",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 4,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 5,
+                    "Descricao": "Salada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 5,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 6,
+                    "Descricao": "Ovo",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 6,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 7,
+                    "Descricao": "Muçarela",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 7,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 8,
+                    "Descricao": "Cheddar",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 8,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 1,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 1,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 4,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Tortas",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 151,
+        "IdSlave": 151,
+        "NomeDelivery": "Cheesecake de Paçoca",
+        "DescricaoDelivery": "",
+        "Ingredientes": "",
+        "PrecoDelivery": "23,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639110842314738202/WhatsApp%20Image%202026-04-06%20at%2014.56.43.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 151,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 37,
+        "IdSlave": 37,
+        "NomeDelivery": "Torta de Limão",
+        "DescricaoDelivery": "Torta de Limão",
+        "Ingredientes": "",
+        "PrecoDelivery": "16,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083405648388358/Torta%20de%20Lim%C3%A3o.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 37,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 38,
+        "IdSlave": 38,
+        "NomeDelivery": "Torta de Maracujá",
+        "DescricaoDelivery": "Torta de Maracujá",
+        "Ingredientes": "",
+        "PrecoDelivery": "18,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083405941669492/Torta%20de%20Maracuj%C3%A1.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 38,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 39,
+        "IdSlave": 39,
+        "NomeDelivery": "Torta de Alemã",
+        "DescricaoDelivery": "Torta de Alemã",
+        "Ingredientes": "",
+        "PrecoDelivery": "22,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083406440445548/Torta%20Alem%C3%A3.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 39,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 41,
+        "IdSlave": 41,
+        "NomeDelivery": "Torta de Mocca",
+        "DescricaoDelivery": "Torta de Mocca",
+        "Ingredientes": "",
+        "PrecoDelivery": "16,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639110831185962523/Torta%20Mocha%20%282%29_page-0001.jpg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 41,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 59,
+        "IdSlave": 59,
+        "NomeDelivery": "Cheesecake",
+        "DescricaoDelivery": "Calda de frutas vermelhas, frutas amarelas, goiaba ou caramelo salgado. Clique e escolha o sabor:",
+        "Ingredientes": "",
+        "PrecoDelivery": "20,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083431530964971/Cheesecake.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 59,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 4,
+              "Descricao": "Escolha como deseja seu cheesecake?",
+              "QuantMinima": 1,
+              "QuantMaxima": 1,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 4,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 5,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Bolos Afetivos",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 42,
+        "IdSlave": 42,
+        "NomeDelivery": "Bolo de Chocolate",
+        "DescricaoDelivery": "Bolo afetivo",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639112594260444204/Chocolate.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 42,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 43,
+        "IdSlave": 43,
+        "NomeDelivery": "Bolo de Limão",
+        "DescricaoDelivery": "Bolo afetivo",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639110828480849439/Lim%C3%A3o.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 43,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 44,
+        "IdSlave": 44,
+        "NomeDelivery": "Bolo de Formigueiro",
+        "DescricaoDelivery": "Bolo afetivo",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639112595521470296/Formigueiro.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 44,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 45,
+        "IdSlave": 45,
+        "NomeDelivery": "Bolo de Cenoura",
+        "DescricaoDelivery": "Bolo afetivo",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113228349621915/WhatsApp%20Image%202026-04-08%20at%2016.25.16%20%281%29.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 45,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 46,
+        "IdSlave": 46,
+        "NomeDelivery": "Bolo de Laranja",
+        "DescricaoDelivery": "Bolo afetivo",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113228478478703/WhatsApp%20Image%202026-04-08%20at%2016.25.16.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 46,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 154,
+        "IdSlave": 165,
+        "NomeDelivery": "Bolo Indiano",
+        "DescricaoDelivery": "Bolo afetivo",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639112595987713227/indiano.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 154,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 147,
+        "IdSlave": 147,
+        "NomeDelivery": "Bolo de Banana com Farinha de Rosca",
+        "DescricaoDelivery": "Bolo afetivo",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639110828676303899/Banana.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 147,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 6,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Caseirinhos Fit",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 47,
+        "IdSlave": 47,
+        "NomeDelivery": "Bolo Milho (sem glúten)",
+        "DescricaoDelivery": "Sem glútem",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639112594472474692/milho.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 47,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 48,
+        "IdSlave": 48,
+        "NomeDelivery": "Bolo Milho (sem glúten e lactose)",
+        "DescricaoDelivery": "Sem glútem e sem lactose",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639112594605089915/milho.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 48,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 49,
+        "IdSlave": 49,
+        "NomeDelivery": "Bolo de Laranja",
+        "DescricaoDelivery": "Sem glútem e sem lactose",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113228722765718/WhatsApp%20Image%202026-04-08%20at%2016.25.16.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 49,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 50,
+        "IdSlave": 50,
+        "NomeDelivery": "Bolo de Iogurte com Mirtilo",
+        "DescricaoDelivery": "Sem glútem",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639112595741769917/Iogurte%20c%20miritlo.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 50,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 51,
+        "IdSlave": 51,
+        "NomeDelivery": "Caseirinho Fit de Caneca",
+        "DescricaoDelivery": "Preparado na hora com banana, cacau e farinha de amêndoas.",
+        "Ingredientes": "",
+        "PrecoDelivery": "21,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639116839222469450/WhatsApp%20Image%202026-04-13%20at%2013.20.25.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 51,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 7,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Slice",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 52,
+        "IdSlave": 52,
+        "NomeDelivery": "Slice Trufado de Maracujá com Chocolate",
+        "DescricaoDelivery": "Slices",
+        "Ingredientes": "",
+        "PrecoDelivery": "24,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639110829123000250/Trufado%20de%20maracuja.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 52,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 53,
+        "IdSlave": 53,
+        "NomeDelivery": "Slice Brigadeiro Branco com Frutas Amarelas (sem glúten) ",
+        "DescricaoDelivery": "Slices",
+        "Ingredientes": "",
+        "PrecoDelivery": "24,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639109084619528089/Slice%20Brigadeiro%20Branco%20com%20Frutas%20Amarelas%20%28sem%20gluten%29.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 53,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 54,
+        "IdSlave": 54,
+        "NomeDelivery": "Slice Pistache com Frutas Vermelhas",
+        "DescricaoDelivery": "Slices",
+        "Ingredientes": "",
+        "PrecoDelivery": "26,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639109089936161030/Slice%20Pistache%20com%20Frutas%20Vermelhas.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 54,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 55,
+        "IdSlave": 55,
+        "NomeDelivery": "Slice Mirtilo com Limão Siciliano",
+        "DescricaoDelivery": "Slices",
+        "Ingredientes": "",
+        "PrecoDelivery": "22,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639109090198391119/Slice%20Mirtilo%20com%20Lim%C3%A3o%20Siciliano.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 55,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 56,
+        "IdSlave": 56,
+        "NomeDelivery": "Slice Prestígio",
+        "DescricaoDelivery": "Slices",
+        "Ingredientes": "",
+        "PrecoDelivery": "20,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639109090442871991/Slice%20Pr%C3%A9stigio.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 56,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 57,
+        "IdSlave": 57,
+        "NomeDelivery": "Slice Red Velvet ",
+        "DescricaoDelivery": "Slices",
+        "Ingredientes": "",
+        "PrecoDelivery": "24,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639109100115405592/Slice%20Dois%20Amores.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 57,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 58,
+        "IdSlave": 58,
+        "NomeDelivery": "Slice Dois Amores",
+        "DescricaoDelivery": "Slices",
+        "Ingredientes": "",
+        "PrecoDelivery": "22,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639110828907068492/Dois%20amores.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 58,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 146,
+        "IdSlave": 146,
+        "NomeDelivery": "Slice Marta Rocha",
+        "DescricaoDelivery": "Slices",
+        "Ingredientes": "",
+        "PrecoDelivery": "32,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639109091800552178/Slice%20Marta%20Rocha.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 146,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 134,
+        "IdSlave": 134,
+        "NomeDelivery": "Slice Abacaxi com Coco Queimado",
+        "DescricaoDelivery": "Slices",
+        "Ingredientes": "",
+        "PrecoDelivery": "20,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639109091253897311/Slice%20Abacaxi%20com%20Coco%20Queimado.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 134,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 8,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Doces",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 139,
+        "IdSlave": 139,
+        "NomeDelivery": "Amendoim Doce",
+        "DescricaoDelivery": "",
+        "Ingredientes": "",
+        "PrecoDelivery": "8,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639116868634020179/WhatsApp%20Image%202026-04-06%20at%2014.29.05.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 139,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 124,
+        "IdSlave": 124,
+        "NomeDelivery": "Stroopwaffles",
+        "DescricaoDelivery": "",
+        "Ingredientes": "",
+        "PrecoDelivery": "6,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639116875662462442/WhatsApp%20Image%202026-04-13%20at%2014.32.06.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 124,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 125,
+        "IdSlave": 125,
+        "NomeDelivery": "Docinho ",
+        "DescricaoDelivery": "",
+        "Ingredientes": "",
+        "PrecoDelivery": "3,50",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639116968201373828/WhatsApp%20Image%202026-04-13%20at%2017.01.38.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 125,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 10,
+              "Descricao": "Sabor do Docinho que deseja ?",
+              "QuantMinima": 0,
+              "QuantMaxima": 8,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 36,
+                    "Descricao": "Docinho Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 37,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 37,
+                    "Descricao": "Docinho Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 38,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 38,
+                    "Descricao": "Docinho Dois Amores",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 39,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 39,
+                    "Descricao": "Docinho Amendoim",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 40,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": true,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 10,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 126,
+        "IdSlave": 126,
+        "NomeDelivery": "Alfajor Branco",
+        "DescricaoDelivery": "Recheado com brigadeiro",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639111477903837286/Captura%20de%20tela%202026-04-07%20083615.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 126,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 127,
+        "IdSlave": 127,
+        "NomeDelivery": "Alfajor Preto",
+        "DescricaoDelivery": "Recheado com brigadeiro",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639111478101054660/Captura%20de%20tela%202026-04-07%20083541.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 127,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 128,
+        "IdSlave": 128,
+        "NomeDelivery": "Trident Hortelã",
+        "DescricaoDelivery": "",
+        "Ingredientes": "",
+        "PrecoDelivery": "4,50",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639111470079716527/10897.jpg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 128,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 131,
+        "IdSlave": 131,
+        "NomeDelivery": "Beijinho de Limão",
+        "DescricaoDelivery": "",
+        "Ingredientes": "",
+        "PrecoDelivery": "5,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639115121823504375/WhatsApp%20Image%202026-04-11%20at%2013.34.50.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 131,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 132,
+        "IdSlave": 132,
+        "NomeDelivery": "Beijinho de Laranja",
+        "DescricaoDelivery": "",
+        "Ingredientes": "",
+        "PrecoDelivery": "5,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639115121998099398/WhatsApp%20Image%202026-04-11%20at%2013.34.50.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 132,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 161,
+        "IdSlave": 181,
+        "NomeDelivery": "Mini Cookie de Granola",
+        "DescricaoDelivery": "Crocante com gotas de chocolate.",
+        "Ingredientes": "",
+        "PrecoDelivery": "4,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083437709430738/Mini%20Cookie.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 161,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 60,
+        "IdSlave": 60,
+        "NomeDelivery": "Brownie",
+        "DescricaoDelivery": "Crosta crocante, macio e delicioso por dentro.",
+        "Ingredientes": "",
+        "PrecoDelivery": "17,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083433500406911/Brownie.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 60,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 61,
+        "IdSlave": 61,
+        "NomeDelivery": "Hot Brownie com Sorvete",
+        "DescricaoDelivery": "Calda de caramelo salgado, chocolate ou frutas vermelhas.",
+        "Ingredientes": "",
+        "PrecoDelivery": "22,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083433960539523/Brownie.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 61,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 2,
+              "Descricao": "Adicionais caldas?",
+              "QuantMinima": 0,
+              "QuantMaxima": 3,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 16,
+                    "Descricao": "Geleia de Frutas Vermelhas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 16,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 18,
+                    "Descricao": "Geleia de Caramelo Salgado",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 18,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 19,
+                    "Descricao": "Calda de Chocolate Branco",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 19,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 21,
+                    "Descricao": "Geleia de Frutas Amarelas",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 21,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 31,
+                    "Descricao": "Geleia de Goiabada",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 31,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 32,
+                    "Descricao": "Calda de Chocolate Preto",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 32,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 2,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 62,
+        "IdSlave": 62,
+        "NomeDelivery": "Waffles",
+        "DescricaoDelivery": "Acompanhado de morango, banana e mel.",
+        "Ingredientes": "",
+        "PrecoDelivery": "24,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083436694071018/Waffle%20com%20Frutas.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 62,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 63,
+        "IdSlave": 63,
+        "NomeDelivery": "Cookie",
+        "DescricaoDelivery": "Recheado com brigadeiro",
+        "Ingredientes": "",
+        "PrecoDelivery": "14,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083437025649854/Cookie%20Recheado%20Brigadeiro.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 63,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 64,
+        "IdSlave": 64,
+        "NomeDelivery": "Mini Cookie",
+        "DescricaoDelivery": "Crocante com gotas de chocolate.",
+        "Ingredientes": "",
+        "PrecoDelivery": "2,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083437709430738/Mini%20Cookie.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 64,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 9,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Cafés",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 65,
+        "IdSlave": 65,
+        "NomeDelivery": "Café Coado",
+        "DescricaoDelivery": "Método Hario V60 130 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083438159564266/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 65,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 66,
+        "IdSlave": 66,
+        "NomeDelivery": "Café Coado com Leite",
+        "DescricaoDelivery": "Método Hario V60 com leite vaporizado 150 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "10,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083440164060250/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 66,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 67,
+        "IdSlave": 67,
+        "NomeDelivery": "Café Coado na Caneca",
+        "DescricaoDelivery": "Método Hario V60 240 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "14,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083440690316786/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 67,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 68,
+        "IdSlave": 68,
+        "NomeDelivery": "Café Coado na Caneca com Leite",
+        "DescricaoDelivery": "Método Hario V60 com leite vaporizado 240 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083440974192019/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 68,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 69,
+        "IdSlave": 69,
+        "NomeDelivery": "Carioca 130 ml",
+        "DescricaoDelivery": "Café espresso suave 130 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "10,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083441626818694/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 69,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 70,
+        "IdSlave": 70,
+        "NomeDelivery": "Espresso 60 ml",
+        "DescricaoDelivery": "60 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "8,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083441932014004/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 70,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 71,
+        "IdSlave": 71,
+        "NomeDelivery": "Espresso Duplo 130 ml",
+        "DescricaoDelivery": "130 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "13,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083442141234205/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 71,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 72,
+        "IdSlave": 72,
+        "NomeDelivery": "Espresso com Leite Vaporizado 130 ml",
+        "DescricaoDelivery": "130 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "11,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083442502729620/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 72,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 73,
+        "IdSlave": 73,
+        "NomeDelivery": "Café Latte 200 ml",
+        "DescricaoDelivery": "Espresso, leite vaporizado e crema de leite 200 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "14,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083442805245190/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 73,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 74,
+        "IdSlave": 74,
+        "NomeDelivery": "Capuccino Italiano 130 ml",
+        "DescricaoDelivery": "Espresso, cacau e leite vaporizado 130 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "14,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083442983568172/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 74,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 75,
+        "IdSlave": 75,
+        "NomeDelivery": "Mocaccino",
+        "DescricaoDelivery": "Espresso, calda de chocolate e leite vaporizado 130 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "16,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083443236286117/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 75,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 76,
+        "IdSlave": 76,
+        "NomeDelivery": "Mocha",
+        "DescricaoDelivery": "Espresso, brigadeiro, e leite vaporizado e crema de leite,  200 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "18,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 76,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 77,
+        "IdSlave": 77,
+        "NomeDelivery": "Café Bombom",
+        "DescricaoDelivery": "Espresso, calda de brigadeiro, bombom, leite vaporizado, crema de leite, borda de brigadeiro e chantilly 200 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "28,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083445019494216/Cafe%20Bombom.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 77,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 78,
+        "IdSlave": 78,
+        "NomeDelivery": "Capuccino Tradicional 240 ml",
+        "DescricaoDelivery": "Blend docinho de café, chocolate e leite vaporizado 240 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083445212006099/Cafe%20Coado.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 78,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 79,
+        "IdSlave": 79,
+        "NomeDelivery": "Chocolate Quente 240 ml",
+        "DescricaoDelivery": "240 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "18,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083446358878920/Chocolate%20Quente%20240%20ml.jpg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 79,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 3,
+              "Descricao": "Gostaria de algo a mais no café?",
+              "QuantMinima": 0,
+              "QuantMaxima": 4,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 4.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.50000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 15,
+                    "Descricao": "Chantilly",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 15,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 5.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 46,
+                    "Descricao": "Leite Integral",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 47,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 3,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 10,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Chá Moncloa",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 80,
+        "IdSlave": 80,
+        "NomeDelivery": "Apfeltraun",
+        "DescricaoDelivery": "Chá de maçã com especiarias. Levemente adocicado 200 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639116892109812976/Moncloa.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 80,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 81,
+        "IdSlave": 81,
+        "NomeDelivery": "Strawberry Champagne",
+        "DescricaoDelivery": "Chá de morango com champagne. Frutado, delicado e aromático 200 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113287268261619/Moncloa.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 81,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 82,
+        "IdSlave": 82,
+        "NomeDelivery": "Berlin",
+        "DescricaoDelivery": "Chá floral com toque elegante, Leve, perfumado e surpreendente 200 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639117596353629263/Captura%20de%20tela%202026-04-14%20103346.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 82,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 83,
+        "IdSlave": 83,
+        "NomeDelivery": "Chá Twinings",
+        "DescricaoDelivery": "Seleção de chás clássicos preparados na hora. Clique e escolha o seu:",
+        "Ingredientes": "",
+        "PrecoDelivery": "10,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639116872759256858/WhatsApp%20Image%202026-04-13%20at%2014.27.26.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 83,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 11,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Ice Cappuccinos",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 84,
+        "IdSlave": 84,
+        "NomeDelivery": "Gelato Amavê",
+        "DescricaoDelivery": "Capuccino cremoso gelado, notas de conhaque, raspas de limão e chantilly 200 ml (Contem alcóol).",
+        "Ingredientes": "",
+        "PrecoDelivery": "25,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083798869353296/Gelato%20Amav%C3%AA.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 84,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 85,
+        "IdSlave": 85,
+        "NomeDelivery": "Gelato Dubai Chocolate",
+        "DescricaoDelivery": "Capuccino cremoso gelado, chocolate, pistache e chantilly 200 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "35,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083799018171404/Gelato%20Dubai.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 85,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 86,
+        "IdSlave": 86,
+        "NomeDelivery": "Gelato Oreo",
+        "DescricaoDelivery": "Capuccino cremoso gelado, bolacha oreo e chantilly 200 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "26,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083799706936516/Gelato%20Oreo.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 86,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 87,
+        "IdSlave": 87,
+        "NomeDelivery": "Gelato Sensação",
+        "DescricaoDelivery": "Capuccino cremoso gelado, morangos frescos, creme de morango, chatilly e bombom 200 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "32,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083799926050745/Gelato%20Sensa%C3%A7%C3%A3o.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 87,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 88,
+        "IdSlave": 88,
+        "NomeDelivery": "Gelato Kids",
+        "DescricaoDelivery": "Capuccino cremoso gelado, Nutella, chantilly e confete 120 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "22,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083800163850459/Gelato%20Amav%C3%AA.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 88,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 12,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Cafés Gelados",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 89,
+        "IdSlave": 89,
+        "NomeDelivery": "Orange Coffee",
+        "DescricaoDelivery": "Café espresso, suco de lanranja, tônica e muito gelo 350 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "19,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083804016751713/Orange%20Coffee.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 89,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 90,
+        "IdSlave": 90,
+        "NomeDelivery": "Caramel Latte",
+        "DescricaoDelivery": "Café espresso, leite gelado e caramelo salgado 350 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "19,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083804919599585/Caramel%20Latte.jpg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 90,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 91,
+        "IdSlave": 91,
+        "NomeDelivery": "Honey Lemon Coffee",
+        "DescricaoDelivery": "Café espresso, limão, mel e muito gelo 350 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "19,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639116838765100285/WhatsApp%20Image%202026-04-13%20at%2013.26.10.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 91,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 92,
+        "IdSlave": 92,
+        "NomeDelivery": "Affogato",
+        "DescricaoDelivery": "Café espresso com sorvete de baunilha",
+        "Ingredientes": "",
+        "PrecoDelivery": "19,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083806418566855/Affogato.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 92,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 13,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Chás Gelados",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 93,
+        "IdSlave": 93,
+        "NomeDelivery": "Blue Lemon Tea",
+        "DescricaoDelivery": "Chá preto gelado com limão e mirtilo 280 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "17,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639116839014967691/WhatsApp%20Image%202026-04-13%20at%2013.27.23.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 93,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 163,
+        "IdSlave": 194,
+        "NomeDelivery": "Chá Mate ",
+        "DescricaoDelivery": "Chá mate gelado 330 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "10,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639117775288731817/WhatsApp%20Image%202026-04-14%20at%2014.44.52.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 163,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 7,
+              "Descricao": "Qual o sabor do seu Mate?",
+              "QuantMinima": 1,
+              "QuantMaxima": 1,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 47,
+                    "Descricao": "Chá Mate Limão ",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 48,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 48,
+                    "Descricao": "Chá Mate de Peach",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 49,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 7,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 14,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Sucos Funcionais",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 96,
+        "IdSlave": 96,
+        "NomeDelivery": "Suco Verde",
+        "DescricaoDelivery": "Abacaxi, couve, hortelã e limão",
+        "Ingredientes": "",
+        "PrecoDelivery": "17,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083798012277325/Suco%20Verde.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 96,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 97,
+        "IdSlave": 97,
+        "NomeDelivery": "Cor do Sol",
+        "DescricaoDelivery": "Acerola, cenoura e laranja",
+        "Ingredientes": "",
+        "PrecoDelivery": "17,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083798183117924/Suco%20Cor%20do%20Sol.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 97,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 98,
+        "IdSlave": 98,
+        "NomeDelivery": "Relax",
+        "DescricaoDelivery": "Mamão, maracujá e laranja",
+        "Ingredientes": "",
+        "PrecoDelivery": "17,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083798332632540/Suco%20Relax.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 98,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 99,
+        "IdSlave": 99,
+        "NomeDelivery": "Pink Lemonade",
+        "DescricaoDelivery": "Limão, morango, hortelã e água de coco",
+        "Ingredientes": "",
+        "PrecoDelivery": "17,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083798574092771/Suco%20Pink%20Lemonade.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 99,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 15,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Sucos Naturais",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 100,
+        "IdSlave": 100,
+        "NomeDelivery": "Suco Natural",
+        "DescricaoDelivery": "Suco natural",
+        "Ingredientes": "",
+        "PrecoDelivery": "13,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639117554790795580/Captura%20de%20tela%202026-04-14%20092429.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 100,
+        "GrupoOpcoesProdutoEstab": [
+          {
+            "GrupoOpcoes": {
+              "Id": 11,
+              "Descricao": "Qual o sabor do seu suco?",
+              "QuantMinima": 1,
+              "QuantMaxima": 1,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 40,
+                    "Descricao": "Suco de Laranja",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 41,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 1.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 41,
+                    "Descricao": "Suco de Limão ",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 42,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 42,
+                    "Descricao": "Suco de Abacaxi",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 43,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 43,
+                    "Descricao": "Suco de Maracujá",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 44,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 44,
+                    "Descricao": "Suco de Morango",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 45,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 45,
+                    "Descricao": "Suco de Manga",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 46,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 0.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 11,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          },
+          {
+            "GrupoOpcoes": {
+              "Id": 9,
+              "Descricao": "Deseja leite no suco?",
+              "QuantMinima": 0,
+              "QuantMaxima": 1,
+              "OpcoesGrupo": [
+                {
+                  "Adicional": {
+                    "Id": 12,
+                    "Descricao": "Leite",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 12,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 2.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 13,
+                    "Descricao": "Leite Vegetal",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 13,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 8.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                },
+                {
+                  "Adicional": {
+                    "Id": 14,
+                    "Descricao": "Leite Zero Lactose",
+                    "UtilizaQuantidade": true,
+                    "PausarDelivery": false,
+                    "PausarQrCode": false,
+                    "PathImagemReceitaS3": null,
+                    "Ativo": true,
+                    "IdMaster": null,
+                    "IdSlave": 14,
+                    "Empresa": {
+                      "Id": 1,
+                      "Ativo": true,
+                      "Nome": "Amave Cafe",
+                      "UrlAcesso": "amavecafe",
+                      "DbName": "amavecafe",
+                      "Marketplace": null,
+                      "Categorias": null,
+                      "Cidade": null,
+                      "Bairro": null,
+                      "InscricaoMunicipal": null
+                    }
+                  },
+                  "Preco": 3.00000,
+                  "QtdMaxima": 0,
+                  "QtdMinima": 0
+                }
+              ],
+              "ExibirDelivery": false,
+              "ExibirQrCode": true,
+              "Ordem": 0,
+              "ConsiderarAdicionalComValorMaior": false,
+              "Ativo": true,
+              "IdMaster": null,
+              "IdSlave": 9,
+              "Empresa": {
+                "Id": 1,
+                "Ativo": true,
+                "Nome": "Amave Cafe",
+                "UrlAcesso": "amavecafe",
+                "DbName": "amavecafe",
+                "Marketplace": null,
+                "Categorias": null,
+                "Cidade": null,
+                "Bairro": null,
+                "InscricaoMunicipal": null
+              }
+            },
+            "Ordem": 0
+          }
+        ],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 16,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Soda Italiana",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 106,
+        "IdSlave": 106,
+        "NomeDelivery": "Soda Italiana Maçã Verde",
+        "DescricaoDelivery": "Soda Italiana",
+        "Ingredientes": "",
+        "PrecoDelivery": "17,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083807000787890/Soda%20Italiana%20Ma%C3%A7a%20Verde.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 106,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 107,
+        "IdSlave": 107,
+        "NomeDelivery": "Soda Italiana Tangerina",
+        "DescricaoDelivery": "Soda Italiana",
+        "Ingredientes": "",
+        "PrecoDelivery": "17,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083807343724137/Soda%20Italiana%20Tangerina.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 107,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 108,
+        "IdSlave": 108,
+        "NomeDelivery": "Soda Italiana Blue Lemonade",
+        "DescricaoDelivery": "Soda Italiana",
+        "Ingredientes": "",
+        "PrecoDelivery": "17,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083807572346542/Soda%20Italiana%20Blue%20Lemonade.jpg.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 108,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 17,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  },
+  {
+    "Categoria": "Soft Drinks",
+    "LsProd": [
+      {
+        "IdEmpresa": 1,
+        "IdProd": 109,
+        "IdSlave": 109,
+        "NomeDelivery": "Água com Gás",
+        "DescricaoDelivery": "Água mineral  com gás",
+        "Ingredientes": "",
+        "PrecoDelivery": "5,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083795440435025/agua%20com%20gas%20ok.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 109,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 110,
+        "IdSlave": 110,
+        "NomeDelivery": "Água sem Gás",
+        "DescricaoDelivery": "Água mineral  sem gás",
+        "Ingredientes": "",
+        "PrecoDelivery": "5,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083795280798651/agua%20sem%20gas%20ok.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 110,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 111,
+        "IdSlave": 111,
+        "NomeDelivery": "Coca Cola",
+        "DescricaoDelivery": "350 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083794817960795/Coca%20Cola%20Lt%20350Ml.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 111,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 112,
+        "IdSlave": 112,
+        "NomeDelivery": "Coca Cola Zero",
+        "DescricaoDelivery": "350 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083794573533479/Coca%20Cola%20Zero%20Lt%20350Ml.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 112,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 113,
+        "IdSlave": 113,
+        "NomeDelivery": "Sprite",
+        "DescricaoDelivery": "350 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083794254227365/Sprite%20Lt%20350%20Ml.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 113,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 114,
+        "IdSlave": 114,
+        "NomeDelivery": "Sprite Zero",
+        "DescricaoDelivery": "350 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083794021658136/sprite-zero-acucar-350ml-1.jpg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 114,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 115,
+        "IdSlave": 115,
+        "NomeDelivery": "Schweppes Citrus",
+        "DescricaoDelivery": "Schweppes Citrus Original LT 350ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083793798434989/SCHWEPPES.jpg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 115,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 116,
+        "IdSlave": 116,
+        "NomeDelivery": "Chocoleite",
+        "DescricaoDelivery": "280 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "10,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083792942879186/CHOCO%20LEITE.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 116,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 117,
+        "IdSlave": 117,
+        "NomeDelivery": "Suco Del Valle Pêssego",
+        "DescricaoDelivery": "Suco em lata",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083792701889054/Suco%20Del%20Valle%20pessego%20290ml.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 117,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 118,
+        "IdSlave": 118,
+        "NomeDelivery": "Suco Del Valle Uva",
+        "DescricaoDelivery": "Suco em lata",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083792544128231/Suco%20Del%20Valle%20Uva%20290ml.jpeg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 118,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 119,
+        "IdSlave": 119,
+        "NomeDelivery": "Suco Del Valle Maracujá",
+        "DescricaoDelivery": "Suco em lata",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083792279147776/Suco%20Del%20Valle%20Maracuj%C3%A1%20290ml.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 119,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 120,
+        "IdSlave": 120,
+        "NomeDelivery": "Energetico Monster",
+        "DescricaoDelivery": "Lata 473 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083791983317147/Monster%20Energy%20473ml.jpg",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 120,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 121,
+        "IdSlave": 121,
+        "NomeDelivery": "Ice Tea Leão Pêssego",
+        "DescricaoDelivery": "Chá mate",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083791745823788/Ice%20Tea%20Pessego.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 121,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 122,
+        "IdSlave": 122,
+        "NomeDelivery": "Ice Tea Leão Limão",
+        "DescricaoDelivery": "Chá mate",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639083791306684498/Ice%20Tea%20Limao%20450Ml.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 122,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": true,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 140,
+        "IdSlave": 140,
+        "NomeDelivery": "Kuat",
+        "DescricaoDelivery": "350 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113427761852495/Captura%20de%20tela%20kuat.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 140,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 155,
+        "IdSlave": 171,
+        "NomeDelivery": "Schweppes Citrus",
+        "DescricaoDelivery": "Schweppes Citrus Original LT 350ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113428987195391/Captura%20de%20tela%20leve%20em%20a%C3%A7ucar.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 155,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 156,
+        "IdSlave": 172,
+        "NomeDelivery": "Schweppes Citrus",
+        "DescricaoDelivery": "Schweppes Citrus Original LT 350ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "9,00",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113431285224205/Captura%20de%20tela%20zero.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 156,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      },
+      {
+        "IdEmpresa": 1,
+        "IdProd": 157,
+        "IdSlave": 173,
+        "NomeDelivery": "Energetico Monster",
+        "DescricaoDelivery": "Lata 473 ml",
+        "Ingredientes": "",
+        "PrecoDelivery": "15,90",
+        "PrecoPromocional": "",
+        "PrecoQRCode": null,
+        "PathImagemS3": "https://mogosmart.s3.us-west-2.amazonaws.com/Imagens/1amavecafe/639113432739127622/Captura%20de%20tela%20monster%20zero.png",
+        "QuantidadeMinima": 0,
+        "Intervalo": null,
+        "ExibirProdutoForaDeHorario": null,
+        "SubAgrupamentoDelivery": null,
+        "Destaque": false,
+        "IdClassProduto": 157,
+        "GrupoOpcoesProdutoEstab": [],
+        "SaldoEstoque": 0.0,
+        "ControlaEstoque": false,
+        "IsPizza": false,
+        "SugestoesProdutosId": 0,
+        "UsaPrecoPromocionalPercentual": false
+      }
+    ],
+    "Ordem": 18,
+    "LsSubAgrupamento": null,
+    "IsPizza": false
+  }
+];
