@@ -1,14 +1,13 @@
 {
-  "name": "amave-cafe",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "amave-cafe-proxy",
+  "version": "1.0.0",
+  "description": "Mini-proxy para o Amave Cafe contornar CORS e servir arquivos locais",
+  "main": "server.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "node server.js"
   },
-  "devDependencies": {
-    "vite": "^7.3.1"
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
   }
 }
