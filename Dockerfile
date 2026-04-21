@@ -1,22 +1,17 @@
-# Estágio 1: Instala dependências e faz o build (gera a pasta dist)
-FROM node:20-alpine as builder
+FROM node:20-alpine
 WORKDIR /app
 
-# Copia os arquivos de dependência
+# Copia os arquivos de configuração do NPM
 COPY package*.json ./
-RUN npm install
 
-# Copia o restande do código e roda o build do Vite
+# Instala apenas as dependências de produção (express, cors)
+RUN npm install --production
+
+# Copia o restante do código (incluindo index.html, server.js, etc.)
 COPY . .
-RUN npm run build
 
-# Estágio 2: Usa o Nginx para servir os arquivos estáticos compilados
-FROM nginx:alpine
-# Copia o resultado do build (pasta dist) para a pasta padrão do Nginx
-COPY --from=builder /app/dist /usr/share/nginx/html
+# Expõe a porta que configuramos no server.js (3000)
+EXPOSE 3000
 
-# Expõe a porta padrão do Nginx
-EXPOSE 80
-
-# Comando para iniciar o Nginx
-CMD ["nginx", "-g", "daemon off;"]
+# Executa o servidor Node que atua como WebServer Estático e Proxy
+CMD ["npm", "start"]
