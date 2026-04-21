@@ -240,7 +240,7 @@
     </div>
 
     <!-- Mobile dropdown -->
-    <div id="mobile-menu" class="is-hidden md:hidden bg-white border-t border-neutral-100 px-6 py-8 space-y-6">
+    <div id="mobile-menu" class="is-hidden absolute top-full left-0 w-full md:hidden bg-white/95 backdrop-blur-md border-t border-neutral-100 px-6 py-8 space-y-6 shadow-xl">
       <a class="block text-sm uppercase tracking-widest hover:text-neutral-500" href="#cardapio"
         onclick="closeMenu()">Cardápio</a>
       <a class="block text-sm uppercase tracking-widest hover:text-neutral-500" href="#sobre"
@@ -949,6 +949,18 @@
               return;
             }
           }
+
+          /* Prioriza categorias específicas no cardápio */
+          const priorityCats = ['Ice Cappuccinos', 'Leves e Nutritivos'];
+          menuData.sort((a, b) => {
+            const idxA = priorityCats.indexOf(a.Categoria.trim());
+            const idxB = priorityCats.indexOf(b.Categoria.trim());
+            
+            if (idxA !== -1 && idxB !== -1) return idxA - idxB;
+            if (idxA !== -1) return -1;
+            if (idxB !== -1) return 1;
+            return 0;
+          });
 
           hideSkeleton();
           renderChips();
